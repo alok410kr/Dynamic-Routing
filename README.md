@@ -28,8 +28,8 @@ Dynamic Routing: RIP v1 enables dynamic updates of the routing table, reducing t
 This project demonstrates the effective use of RIP v1 for dynamic routing in a multi-subnet environment. The configuration not only allows for seamless communication across all devices within the network but also optimizes resource usage, making it ideal for scalable network setups. The successful simulation in Cisco Packet Tracer showcases the practical application of RIP v1 in managing complex network topologies.
 
 ## How to run
-Install Cisco Packet Tracer and then simply open the [network.pkt](../master/network.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
-Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [network.pkt](../master/network.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
+Install Cisco Packet Tracer and then simply open the [Dynamic_Routing.pkt](Dynamic_Routing.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
+Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [Dynamic_Routing.pkt](Dynamic_Routing.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
 
 
 
